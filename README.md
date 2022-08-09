@@ -1,2 +1,6 @@
 # utils-R
-Utilities for R
+Utilities for R by Nicolas Gauthier
+
+
+
+ 
